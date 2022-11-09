@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="YelloText" parent="TextAppearance.AppCompat">
+    <item name="android:textColor">@color/amarillo</item>
+        <item name="android:textSize"> 20sp </item>
+    </style>
+
+
+    <style name="editTextCustom" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/purple_200</item>
+        <item name="android:textSize"> 24sp </item>
+    </style>
+
+
+
+
+
+</resources>
